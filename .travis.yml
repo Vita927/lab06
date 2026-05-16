@@ -7,8 +7,6 @@ script:
 
 addons:
   apt:
-    sources:
-    - george-edison55-precise-backports
-  packages:
+    packages:
     - cmake
     - cmake-data
